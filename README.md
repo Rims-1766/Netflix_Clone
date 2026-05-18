@@ -32,12 +32,6 @@ This project recreates the modern Netflix UI with multiple sections, responsive 
 
 ---
 
-## 📷 Screenshots
-
-(Add screenshots of your project here)
-
----
-
 ## 📂 Project Structure
 
 ```bash
