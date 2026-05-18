@@ -7,7 +7,7 @@ This project recreates the modern Netflix UI with multiple sections, responsive 
 
 ## 🚀 Live Demo
 
-🔗 (https://super-gaufre-c1660d.netlify.app/))
+🔗 (https://netclone.netlify.app/)
 
 ---
 
