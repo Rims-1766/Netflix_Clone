@@ -1,0 +1,50 @@
+@media screen and (max-width:992px){
+  .content {
+        width: 90%;
+        overflow:hidden;
+    }
+
+    .content h1 {
+        font-size: 32px;
+    }
+
+    .content h3 {
+        font-size: 18px;
+    }
+
+    .email-box {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .email-box input,
+    .email-box button {
+        width: 100%;
+    }
+  .section2
+  .section1
+  .section3
+  .section4{
+    align-items: center;
+    flex-direction: column;
+    display:block;
+    gap: 25px;
+    padding: 60px,30px;
+
+  }
+  .section img
+  .section2 img
+  .section3 img
+  .section4 img{
+    width: 100px;
+  }
+  .navbar {
+        padding: 20px;
+    }
+
+    .logo {
+        font-size: 22px;
+    }
+
+}
